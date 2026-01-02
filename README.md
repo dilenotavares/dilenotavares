@@ -1,6 +1,6 @@
 ## Olá! 👋 Bem-vindo ao meu perfil no GitHub! Sou Dileno Tavares🌟
 
-Full-Stack Web Developer e Software Engineer. Conhecimento e domínio em tecnologias do Front-End e Back-End como: HTML5 | CSS3 | Tailwindcss | Bootstrap | PHP | JavaScript | Typescript | Java | Python | JQuery | Ajax | Node.js | React Native | PostgreSQL | Spring Boot | MySQL | MVC | Scrum | Kanban. Formado em Análise e Desenvolvimento de Sistemas em 2022 pela Universidade da Amazônia - UNAMA. Pós-Graduação em 2025 em Engenharia de Software na Faculdade Focus.
+Full-Stack Web Developer e Software Engineer. Conhecimento e domínio em tecnologias do Front-End e Back-End como: HTML5 | CSS3 | Tailwindcss | Bootstrap | PHP | JavaScript | Typescript | Vite | Java | Python | JQuery | Ajax | Node.js | React Native | PostgreSQL | Spring Boot | MySQL | MVC | Scrum | Kanban. Formado em Análise e Desenvolvimento de Sistemas em 2022 pela Universidade da Amazônia - UNAMA. Pós-Graduação em 2025 em Engenharia de Software na Faculdade Focus.
 
 ##
 
