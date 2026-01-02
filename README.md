@@ -1,6 +1,6 @@
 ## Olá! 👋 Bem-vindo ao meu perfil no GitHub! Sou Dileno Tavares🌟
 
-Full-Stack Web Developer e Software Engineer. Conhecimento e domínio em tecnologias do Front-End e Back-End, incluindo: HTML5 | CSS3 | Bootstrap | PHP | JavaScript | Typescript | Java | Python | JQuery | Ajax | Node.js | React Native | PostgreSQL | Spring Boot | MySQL | MVC | Scrum | Kanban. Formado em Análise e Desenvolvimento de Sistemas em 2022 pela Universidade da Amazônia - UNAMA. Pós-Graduação em 2025 em Engenharia de Software na Faculdade Focus.
+Full-Stack Web Developer e Software Engineer. Conhecimento e domínio em tecnologias do Front-End e Back-End como: HTML5 | CSS3 | Tailwindcss | Bootstrap | PHP | JavaScript | Typescript | Java | Python | JQuery | Ajax | Node.js | React Native | PostgreSQL | Spring Boot | MySQL | MVC | Scrum | Kanban. Formado em Análise e Desenvolvimento de Sistemas em 2022 pela Universidade da Amazônia - UNAMA. Pós-Graduação em 2025 em Engenharia de Software na Faculdade Focus.
 
 ##
 
@@ -14,6 +14,7 @@ Full-Stack Web Developer e Software Engineer. Conhecimento e domínio em tecnolo
   <img align="center" alt="dileno-bootstrap" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="dileno-javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="dileno-typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt="dileno-vite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />
   <img align="center" alt="dileno-jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
   <img align="center" alt="dileno-nodejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="dileno-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
